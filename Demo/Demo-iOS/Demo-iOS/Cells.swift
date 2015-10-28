@@ -14,7 +14,6 @@ import UIKit
 class VenueTableViewCell: UITableViewCell {
     
     @IBOutlet weak var userPhotoImageView: UIImageView!
-    
     @IBOutlet weak var venueNameLabel: UILabel!
     @IBOutlet weak var venueRatingLabel: UILabel!
     @IBOutlet weak var venueCommentLabel: UILabel!
